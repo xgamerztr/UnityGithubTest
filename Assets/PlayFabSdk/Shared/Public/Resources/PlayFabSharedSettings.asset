@@ -15,7 +15,7 @@ MonoBehaviour:
   TitleId: F8E62
   DeveloperSecretKey: NEINA5SEDKJF53HY48XP1U7DIAXBFBPQFBDA94RBFATMUS17TR
   ProductionEnvironmentUrl: 
-  RequestType: 2
+  RequestType: 0
   AdvertisingIdType: 
   AdvertisingIdValue: 
   DisableAdvertising: 0
