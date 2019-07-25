@@ -12,7 +12,7 @@ public class Rotation : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -35,7 +35,7 @@ public class Rotation : MonoBehaviour
 
         if (Input.GetKey(KeyCode.DownArrow))
         {
-            transform.Rotate(RotationAmountUD  * -1);
+            transform.Rotate(RotationAmountUD * -1);
         }
     }
 }
